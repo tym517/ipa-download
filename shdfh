@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>https://ghproxy.net/https://github.com/tym517/ipa-download/releases/download/test/shdfh.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4B36A0E961EF04C94F3B1C3999A132938DD72AB7</string>
+				<key>dateExpires</key>
+				<string>2024/6/17</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JU5G78NWFT.com.shdfh</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JU5G78NWFT</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>shdfh-mobile.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e5f57589-1cb4-4f02-9ae4-66dbad211093</string>
+				<key>dateExpires</key>
+				<string>2024/6/17</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.shdfh</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JU5G78NWFT</string>
+				<key>name</key>
+				<string>Yuanman Tan</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
