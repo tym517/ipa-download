@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ÇëÌîÉÏÄãµÄipaÏÂÔØµØÖ·(±ÈÈç:http://127.0.0.1/app.ipa)</string>
+                    <string>https://ghproxy.net/https://github.com/tym517/ipa-download/releases/download/test/shdfh.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>ÇëÌîÉÏÄãµÄ¿ª·¢ÕßÖ¤ÊéÓÃ»§Ãû</string>
+				<string>Yuanman Tan</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ÇëÌîÉÏ±êÌâ</string>
+                <string>æ·±æµ·å¤§å¯Œè±ª</string>
             </dict>
         </dict>
     </array>
